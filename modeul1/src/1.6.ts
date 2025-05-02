@@ -20,3 +20,16 @@
 
 const dada: string[] = ["nahid", "shakhawat", "raju"];
 console.log(dada);
+
+// const user: {
+//  fastName: string;
+//   company: "rajukhan LTd";
+//   lastname?: "islam";
+//   ismarrid: boolean;
+// } = {
+//   fastName: "shakhawat",
+//   company: "rajukhan LTd",
+//   ismarrid: true,
+// };
+
+// user.fastName="shakhawat"
